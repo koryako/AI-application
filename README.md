@@ -56,3 +56,7 @@ https://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/18/image-segmentati
 https://greenscreen-ai.boorgle.com/
 
 最后，量子位想说，本教程适合学习，如果你只是想通过抠图讨女朋友欢心，Prisma团队后来推出的新应用Sticky是个不错的选择
+
+
+
+https://github.com/soumith/ganhacks  gan 原理说明

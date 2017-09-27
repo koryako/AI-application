@@ -59,4 +59,4 @@ https://greenscreen-ai.boorgle.com/
 
 
 
-https://github.com/soumith/ganhacks  gan 原理说明
+https://github.com/soumith/ganhacks  gan 技巧说明

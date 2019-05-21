@@ -1,8 +1,11 @@
+
+项目概要：实用GPT-2 作为pretrain  词嵌入特性，使用图像分割工具获取UI空间特征，融合后输入解码器，pix2pix 数据增强
+
 https://harishnarayanan.org/writing/artistic-style-transfer/
 
 风格转化视频
 ---------------------------------------------------
-背景消除
+图形分割标准数据级
 
 数据
 COCO：http://mscoco.org/
@@ -10,6 +13,7 @@ COCO：http://mscoco.org/
 VOC pascal：http://host.robots.ox.ac.uk/pascal/VOC/
 
 ADE20K：http://groups.csail.mit.edu/vision/datasets/ADE20K/
+
 
 
 相关链接

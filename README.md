@@ -6,6 +6,8 @@ Fully Convolutional DenseNets for Semantic Segmentation
 https://harishnarayanan.org/writing/artistic-style-transfer/
 http://www.ijiandao.com/2b/baijia/264053.html  AI界最危险武器GPT-2使用指南：从Finetune到部署
 风格转化视频
+
+NEURAL NETWORKS FOR MODELING SOURCE CODE EDITS
 ---------------------------------------------------
 图形分割标准数据级
 
@@ -19,7 +21,7 @@ ADE20K：http://groups.csail.mit.edu/vision/datasets/ADE20K/
 分布式部署
 
 https://www.jianshu.com/p/bf17ac9e6357
-https://www.jianshu.com/p/9c462bbb6628
+https://www.jianshu.com/p/9c462bbb6628  
 
 相关链接
 

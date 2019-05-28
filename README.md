@@ -1,5 +1,8 @@
 
-项目概要：实用GPT-2 作为pretrain  词嵌入特性，使用图像分割工具获取UI空间特征，融合后输入解码器，pix2pix 数据增强
+项目概要：
+BERT+Blstm 使用Bert 与训练模型的输出词嵌入特性和图像分割工具获取的空间特征融合后输入解码器（GPT-2 作为pretrain ）中，其中pix2pix 用作数据增强的功能
+---------------------------------------------------
+
 https://arxiv.org/pdf/1611.09326.pdf
 The One Hundred Layers Tiramisu:
 Fully Convolutional DenseNets for Semantic Segmentation
@@ -8,7 +11,7 @@ http://www.ijiandao.com/2b/baijia/264053.html  AI界最危险武器GPT-2使用�
 风格转化视频
 
 NEURAL NETWORKS FOR MODELING SOURCE CODE EDITS
----------------------------------------------------
+
 图形分割标准数据级
 
 数据
